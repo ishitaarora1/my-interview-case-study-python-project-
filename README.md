@@ -1,2 +1,9 @@
-# my-interview-case-study-python-project-
-This case study consists of a simple dataset consisting of orders , sales , payments , customers and reviews data , which is used for analysing the customer satisfaction analysis of  a fictional company.
+# importing the necessary libraries
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+%matplotlib inline
+import seaborn as sns
+import plotly.express as px
