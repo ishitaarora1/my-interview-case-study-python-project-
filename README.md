@@ -125,7 +125,8 @@ plt.ylabel('Number of Orders')
 
 plt.title('Number of Orders over time')
 
-<"C:\Users\arora\OneDrive\Desktop\interview case study files\no of orders over time.png">
+<"![no of orders over time](https://user-images.githubusercontent.com/108074039/226286052-8a7a742f-82b0-40a5-9e7c-08525bbc4a52.png)
+">
 
 
 
